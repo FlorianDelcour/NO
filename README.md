@@ -1,4 +1,4 @@
-# Numerical Optimization
+# Numerical Optimization - Solar off-grid microgrid
 Project realized in the course *Introduction to Numerical Optimization* given by **Quentin Louveaux** at the University of Liège.
 
 # Authors
